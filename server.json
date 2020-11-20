@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Macarrão",
+      "price": "19,60",
+      "description": "Macarrone a parmegiana 1",
+      "available": true,
+      "id": 5
     }
   ]
 }
